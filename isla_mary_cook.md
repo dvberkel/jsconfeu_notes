@@ -1,7 +1,7 @@
 Isla
 ====
 
-[Isla][3] is a programming language for children.
+[Isla][3] is a programming language for children developed by Mary Rose Cook.
 
 Interesting modules
 -------------------
