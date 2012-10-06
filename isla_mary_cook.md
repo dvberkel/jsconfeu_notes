@@ -1,7 +1,7 @@
 Isla
 ====
 
-Isla is a programming language for children.
+[Isla][3] is a programming language for children.
 
 Interesting modules
 -------------------
@@ -11,3 +11,4 @@ Interesting modules
 
 [1]: http://pegjs.majda.cz/ "PEG.js homepage"
 [2]: http://krisjordan.com/multimethod-js "MultiMethod homepage"
+[3]: http://islalanguage.org/ "Isla homepage"
