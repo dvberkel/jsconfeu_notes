@@ -9,4 +9,9 @@ Interesting
 -----------
 
 [1]: https://c9.io/ "Cloud 9 IDE homepage"
-[2]: http://www.typescriptlang.org/ "TypeScript: Typed JavaScript"
+[2]: http://www.typescriptlang.org/ "TypeScript: Typed JavaScript
+Zeon
+Narcissus
+UglifyJS
+JSLint
+Esprima"
